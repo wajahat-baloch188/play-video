@@ -6,7 +6,7 @@ dotenv.config({
   path: "./env",
 });
 
-ConnectDB();
+ConnectDB(); //Database Connected Successfully
 
 /*
 import express from "express";
